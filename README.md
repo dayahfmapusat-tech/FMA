@@ -1,55 +1,113 @@
-DAYAH FUTUHUL MU'ARIF AL-AZIZIYYAH
+D<!doctype html>
+<html lang="id">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Dayah Futuhul Mu’arif Al-Aziziyyah</title>
+  <meta name="description" content="Profil resmi Dayah Futuhul Mu’arif Al-Aziziyyah, Langsa. Lembaga Pendidikan Islam Salafiyyah Mazhab Syafi'i." />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
+  <style>
+    :root{
+      --accent:#1f8a70;
+      --muted:#61707a;
+      --bg:#f7faf9;
+      --card:#ffffff;
+      font-family: "Inter", system-ui, sans-serif;
+    }
+    *{box-sizing:border-box}
+    body{margin:0;background:var(--bg);color:#0b1320;line-height:1.6}
+    .container{max-width:980px;margin:0 auto;padding:28px;}
+    header{display:flex;align-items:center;justify-content:space-between;padding:12px 0}
+    .brand{display:flex;gap:12px;align-items:center}
+    .logo{width:56px;height:56px;border-radius:10px;background:linear-gradient(135deg,var(--accent),#2bb39a);
+      display:flex;align-items:center;justify-content:center;color:white;font-weight:700;font-size:20px;}
+    nav a{margin-left:14px;text-decoration:none;color:var(--muted);font-weight:600}
+    h1,h2,h3{margin-top:0}
+    section{margin:32px 0}
+    .card{background:var(--card);padding:20px;border-radius:12px;box-shadow:0 6px 18px rgba(11,19,32,0.05);margin-bottom:18px}
+    ul{margin:6px 0 12px 20px}
+    footer{margin:28px 0 12px 0;color:var(--muted);font-size:14px;text-align:center}
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <div class="brand">
+        <div class="logo">FM</div>
+        <div>
+          <div style="font-weight:700">Dayah Futuhul Mu’arif Al-Aziziyyah</div>
+          <div style="font-size:13px;color:var(--muted)">Seuriget, Kota Langsa</div>
+        </div>
+      </div>
+      <nav>
+        <a href="#profil">Profil</a>
+        <a href="#sejarah">Sejarah</a>
+        <a href="#organisasi">Organisasi</a>
+        <a href="#ciri">Ciri Khas</a>
+        <a href="#kitab">Kitab</a>
+        <a href="#masyarakat">Masyarakat</a>
+      </nav>
+    </header>
 
-LOKASI : Jln.Prof A.Majid Ibrahim Seuriget Kota Langsa
+    <section id="profil" class="card">
+      <h1>Dayah Futuhul Mu’arif Al-Aziziyyah</h1>
+      <p><strong>Lokasi:</strong> Jln. Prof A. Majid Ibrahim, Seuriget, Kota Langsa</p>
+      <p><strong>Pendiri:</strong> Abana Murdani Muhammad</p>
+      <p><strong>Tahun Berdiri:</strong> 2011</p>
+      <p><strong>Lembaga Pendidikan:</strong> Dayah Salafiyyah</p>
+      <p><strong>Ciri Khas:</strong> Salafiyyah, Da’wah, dan Fiqih Mazhab Syafi’i</p>
+    </section>
 
-PENDIRI : ABANA MURDANI MUHAMMAD
+    <section id="sejarah" class="card">
+      <h2>Sejarah Pendirian</h2>
+      <p>Futuhul Mu’arif Al-Aziziyyah adalah Lembaga Pendidikan Islam Salafiyyah yang bermazhab Syafi'i, didirikan pada tahun 2011 dan dicatatkan ke Notaris AWALUDDIN, S.H. pada tahun 2014.</p>
+      <p>Didirikan oleh <strong>Tgk. Murdani Muhammad</strong>, alumnus Dayah Mudi Mesra Samalanga. Inisiatif pendirian berasal dari rekomendasi ayah beliau, <strong>Abu Muhammad Usman (Abu Seuriget)</strong>, seorang ulama kharismatik di Kota Langsa.</p>
+      <p>Tujuan pendirian adalah membentuk masyarakat yang bersyariat, bermazhab, serta mencetak kader ulama yang taat, berakhlak, dan mampu berkiprah bagi agama dan bangsa demi terwujudnya <em>Baldatun Thayyibatun Warabbun Ghafur</em>.</p>
+    </section>
 
-TAHUN BERDIRI : 2011
+    <section id="organisasi" class="card">
+      <h2>Organisasi Kelembagaan</h2>
+      <p>Lembaga ini memiliki struktur organisasi yang terdiri dari pimpinan, ketua umum, sekretaris, bendahara, dan bidang-bidang lainnya.</p>
+      <ul>
+        <li><strong>Pendiri/Pimpinan:</strong> Tgk. Murdani Muhammad</li>
+        <li><strong>Ketua Umum:</strong> Tgk. Muzakir Usman</li>
+        <li><strong>Sekretaris Umum:</strong> Tgk. Heriyansyah Ilyas</li>
+        <li><strong>Bendahara:</strong> Tgk. Zulkifli Hasan</li>
+      </ul>
+      <p>Kepengurusan juga dilengkapi dengan bidang pengajian masyarakat, pendidikan, da’wah, sosial kemasyarakatan, sosial ekonomi, dan pembangunan.</p>
+    </section>
 
-LEMBAGA PENDIDIKAN : Dayah Salafiyyah
+    <section id="ciri" class="card">
+      <h2>Ciri Khas Lembaga</h2>
+      <p>Pendidikan menggunakan metode Salafiyyah dengan pengajian kitab kuning. Metode pengajaran meliputi <em>mutarahah</em> (diskusi masalah) dan <em>mutala’ah</em> (analisa makna tersirat). Materi meliputi fiqh, tauhid, tasawwuf, tafsir, hadist, nahwu, sharaf, balaghah, mantiq, dan usul fiqh.</p>
+    </section>
 
-CIRI KHAS : Salafiyyah Da'wah Dan Fiqih Mazhab Syafi'i
+    <section id="kitab" class="card">
+      <h2>Kitab-Kitab yang Digunakan</h2>
+      <ul>
+        <li><strong>Fiqh:</strong> Matan Taqrib, Bajuri, I’anatuttalibin, Mahalli, dll.</li>
+        <li><strong>Tauhid:</strong> Khamsatu Mutun, Kifayatul ‘Awam, Syarkawi, Dusuki, dll.</li>
+        <li><strong>Tasawuf:</strong> Ta’limul Muta’alim, Muraqil Ubudiyyah, Sirajuttalibin, Ihya Ulumuddin</li>
+        <li><strong>Tafsir:</strong> Tafsir Sawi, A’la Jalalain</li>
+        <li><strong>Hadist:</strong> Minhatul Mughist, Baiquni, Taisir Mustalah Hadits</li>
+        <li><strong>Nahwu:</strong> Awamil, Jurumiyah, Matammimah, Qatrunnada, Ibnu ‘Aqil, dll.</li>
+        <li><strong>Saraf:</strong> Dhammon, Matan Bina, Kailani, Salsil Madhal, Mathlub</li>
+        <li><strong>Bayan:</strong> Shawi Dardir, Jauhar Maknun</li>
+        <li><strong>Mantiq:</strong> Sulam Munawraq, Kuwaisuni Mantiq, Idhahul Mubham, Sabban, dll.</li>
+        <li><strong>Usul Fiqh:</strong> Nufhat A’la Syarhil Waraqat, Ghayah Wusul, Fawaidul Janiyyah</li>
+      </ul>
+    </section>
 
-    SEJARAH PENDIRIAN
+    <section id="masyarakat" class="card">
+      <h2>Kondisi Sosial Masyarakat</h2>
+      <p>Masyarakat Desa Seuriget mayoritas berprofesi sebagai petani palawija dan nelayan. Sebagian kecil menjadi pegawai, karyawan, atau wirausaha. Dari sisi agama seluruhnya beragama Islam, dengan mayoritas etnis Aceh serta beberapa etnis nusantara lainnya.</p>
+    </section>
 
-Futuhul Mua’rif Al-Aziziyyah adalah Lembaga Pendidikan Islam salafiyah yang bermazhab Syafi'i yang yang lebih erat sebutannya di kalangan masyarakat Aceh dengan sebutan Dayah, didirikan pada tahun 2011. Pada tahun 2014. Dayah ini dicatatkan ke Notaris AWALUDDIN, S.H. NO.C-173. HT.03.01-Th.1999.
-
-Didirikan oleh Tgk. Murdani Muhammad seorang ulama muda alumnus Dayah Mudi Mesra Samalanga.
-
-        Berdirinya Lembaga Pendidikan Islam  Dayah Futuhul Mu’arif Al-Aziziyyah atas inisiatif dan Rekomendasi dari orang tua beliau Abu Muhammad Usman yang lebih dikenal dengan Abu Seuriget seorang ulama kharismatik di Kota Langsa yang awalnya memimpin Dayah Bustanul Mu'arif sebelum beliau serahkan kepada anaknya yang tertua. Beliau menerima dan melaksanakan dengan baik rekomendasi tersebut karena melihat animo dan antusiasme masyarakat yang sangat mendukung berdirinya sebuah dayah juga karena memotret situasi dan kondisi generasi muda yang sangat memprihatinkan dalam hal aqidah, syariat dan moral.
-
-Tujuannya adalah untuk mengapresiasikan masyarakat kedalam prilaku yang bersyari’at dan bermazhab serta mencetak kader-kader Ulama yang ta’at, berakhlaq, bermazhab serta mampu berkiprah secara nyata bagi kepentingan Agama dan Bangsa demi terwujudnya Baldatun Thayyibatun Warabbun Ghafur.
-
-    Organisasi Kelembagaan
-
-               Lembaga Pendidikan Islam Dayah Futuhul Mua’rif Al-Aziziyyah mempunyai  struktur organisasi kelembagaan dalam menjalankan program tata laksana kemajuan  lembaga yang terdiri dari pimpinan, ketua umum, sekretaris, bendahara dan seluruh kabag-kabag lainnya di dalam komponen-komponen kelembagaan.
-
-Adapun susunan pengurus lembaga adalah sbb :
-
-    Pendiri/ Pimpinan                    : Tgk. Murdani Muhammad                        :
-    Ketua Umum                            : Tgk. Muzakir Usman
-    Sekretaris Umum                     : Tgk. Heriyansyah Ilyas
-    Bendahara                                : Tgk. Zulkifli Hasan
-
-Kepengurusan tersebut diatas juga dilengkapi dengan beberapa personal yang bertanggung jawab pada bidang-bidang tertentu, seperti : bidang pengajian masyarakat, pendidikan ,da’wah, sosial kemasyarakatan, sosial ekonomi dan bidang pembangunan.
-
-    Ciri Khas lembaga
-
-               Pendidikan kelembagaan yang di selenggarakan di Lembaga Pendidikan Islam  Dayah Futuhul Mua’rif Al-Aziziyyah adalah pengajian Salafiyyah dengan menggunakan dan mengkaji kitab kuning, system pengajarannya menggunakan metode mutarahah (diskusi masalah) dan mutala’ah (menganalisa ma’na tersirat dari kalimat), namun materi yang diberikan pada kedua metode tersebut sama yaitu, fiqh,tauhid,tasawwuf, tafsir, hadist, nahwu, sharaf, balaghah, mantiq dan usul fiqh.
-
-               Adapun kitab-kitab yang digunakan adalah:
-
-    Fiqh          :    Matan taqrib, Bajuri, I'anatuttalibin, Mahalli, Dsb.
-    Tauhid      :    Khamsatu mutun, Kifayatul ‘awam, Syarkawi, Dusuki, dsb.
-    Tasawuf   :    Ta’limul muta’alim, Muraqil ubudiyyah, Sirajuttalibin, Ihya                                       ulumuddin
-    Tafsir        :    Tafsir Sawi A’la Jalalaini
-    Hadist       :    Minhatul Mughist, Baiquni, Taisir Mustalah Hadits
-    Nahu         :    Awamil, Jarumiyah, Matammimah, Qatrunnada, Ibnu ‘aqil, dsb.
-    Saraf         :    Dhammon, Matan bina, Kailani,Salsil madhal dan Mathlub
-    Bayan       :    Shawi dardir, Jauhar maknun
-    Mantiq      :    Sulam Munawraq, Kuwaisuni mantiq, Idhahul mubham, Sabban,                               dsb.
-    Usul Fiqh :    Nufhat a’la syarhil waraqat, Ghayah wusul, Fawaidul janiyyah
-
-    Kondisi Sosial Masyarakat
-
-Masyarakat Desa Seuriget Adalah masyarakat petani dan nelayan, mereka terdiri dari petani palawija, sebahagian kecil masyarakat disini menjadi pegawai, karyawan dan wirausaha. Dari segi agama semuanya beragama Islam, sedangkan dari segi etnis sebagian besar etnis Aceh dan selebihnya terdapat beberapa etnis nusantara.
+    <footer>
+      © <span id="year"></span> Dayah Futuhul Mu’arif Al-Aziziyyah — Kota Langsa
+    </footer>
+  </div>
+  <script>document.getElementById('year').textContent=new Date().getFullYear();</script>
+</body>
+</html>
+egi etnis sebagian besar etnis Aceh dan selebihnya terdapat beberapa etnis nusantara.
